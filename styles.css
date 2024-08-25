@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.navbar{
+	background-color: #a4453f;
+}
+.navbar ul{
+	list-style-type: none;
+	text-align: center;
+}
+.navbar li{
+	display: inline;
+	margin-right: 20px;
+}
+.navbar li a{
+	color: white;
+	text-decoration: none;
+}
+img{
+	width: 500px;
+}
